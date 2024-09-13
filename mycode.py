@@ -3,3 +3,6 @@ def hello_world():
 
 if my_name == "__main__":
     hello_world()
+
+def greet(name):
+    print(f"Hello World!")
